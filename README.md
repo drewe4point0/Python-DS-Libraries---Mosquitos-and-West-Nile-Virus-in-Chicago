@@ -6,7 +6,7 @@
 - [Questions to Explore](#questions-to-explore)
 - [Data](#data)
 - [Notebooks](#notebooks)
-
+- [Contact Info](#contact-info)
 
 
 
@@ -105,7 +105,7 @@ The data for this project was sourced from the city of Chicago’s [website](htt
 This project is spread across two notebooks: The initial EDA is performed in the first notebook, and the statistical analyses are performed in the second notebook. 
 
 
-## Footer
+## Contact Info
 If you have any questions about this project, I would love to speak with you! Please don't hesitate to reach out:
 
 - **Phone:** +1 778 995 7801
